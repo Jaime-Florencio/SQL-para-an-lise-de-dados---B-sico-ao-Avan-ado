@@ -1,3 +1,9 @@
-Nesse topico preparamos o vs code no qual ciramos uma pasta para testes e estudos. 
--> Necessario a instalção da Extensão SQlite
--> Realizou-se o Primeiro teste para ver se estava funcionando a integração com a base de testes.
+🇧🇷 Português – PT-BR (corrigido):
+->Neste tópico, preparamos o VS Code, criando uma pasta para testes e estudo de caso.
+->Foi necessária a instalação da extensão “SQLite”.
+->Realizou-se o primeiro teste para verificar se a integração com o banco de dados de testes estava funcionando corretamente.
+
+🇺🇸 English – EN (corrected):
+->In this section, we set up the VS Code environment by creating a folder for tests and case study.
+->It was necessary to install the “SQLite” extension.
+->Then, we ran an initial test to check if the integration with the test database was working properly.
